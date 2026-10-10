@@ -1,0 +1,6 @@
+{
+  "name": "Vaporwave Invaders & Synth Player",
+  "description": "An 80s vaporwave Space Invaders arcade game and synthwave music player featuring neon aesthetics, CRT scanlines, and retro audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
